@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Armaan-Indani/clinicall-women-techies/static/css/main.3aa8ecf0.css",
+    "main.js": "/Armaan-Indani/clinicall-women-techies/static/js/main.3764c8cf.js",
+    "static/js/453.a2906dd1.chunk.js": "/Armaan-Indani/clinicall-women-techies/static/js/453.a2906dd1.chunk.js",
+    "static/media/clinical-trial-removebg-preview.png": "/Armaan-Indani/clinicall-women-techies/static/media/clinical-trial-removebg-preview.e81906531b37c9808962.png",
+    "static/media/CLINICALL_LOGO.png": "/Armaan-Indani/clinicall-women-techies/static/media/CLINICALL_LOGO.e58e7bf2c3fcf7d395b0.png",
+    "index.html": "/Armaan-Indani/clinicall-women-techies/index.html",
+    "main.3aa8ecf0.css.map": "/Armaan-Indani/clinicall-women-techies/static/css/main.3aa8ecf0.css.map",
+    "main.3764c8cf.js.map": "/Armaan-Indani/clinicall-women-techies/static/js/main.3764c8cf.js.map",
+    "453.a2906dd1.chunk.js.map": "/Armaan-Indani/clinicall-women-techies/static/js/453.a2906dd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa8ecf0.css",
+    "static/js/main.3764c8cf.js"
+  ]
+}
